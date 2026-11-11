@@ -419,6 +419,6 @@ Issues and pull requests are welcome where enabled. For substantial changes, des
 
 <div align="center">
 
-**Atlas Enterprise AI** — Practical enterprise RAG engineering, from local development to AWS CI/CD.
+**EJ Enterprise AI** — Practical enterprise RAG engineering, from local development to AWS CI/CD.
 
 </div>
